@@ -5,7 +5,7 @@ Project List:
 
   * [x] Trafik Lambası/ Traffic Lamp
   * [x] Ev sıcaklığını kontrol eden sistem/ Room Temprature Control
-  * [ ] Karanlıkta ışıkları otonom açan sistem/ Night Lighter
+  * [x] Karanlıkta ışıkları otonom açan sistem/ Night Lighter
   * [ ] Asansör LED/Elevator LED: en az 5 adet led ve her lede bağlı butondan oluşur. Bir butona basıldığında yanan ışık bulunduğu konumdan butonla eşleşen ledin      konumuna gelir.
   * [ ] Ultrasonik İnsan Sayacı/ Ultrasonic Person Counter
   * [ ] Şifreli kasa sistemi/ Safe system with keypad
