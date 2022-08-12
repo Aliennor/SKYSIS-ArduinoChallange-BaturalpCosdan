@@ -1,4 +1,4 @@
-# SKYSIS-ArduinoChallange-BaturalpCosdan
+# SKYSIS-ArduinoChallenge-BaturalpCosdan
 SKY LAB student branch SKYSIS Embedded System Team's 30 day of Arduino Challange
 
 Project List:
